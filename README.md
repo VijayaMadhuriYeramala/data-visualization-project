@@ -1,5 +1,5 @@
 # data-visualization-project
-Data visualization project using Excel dashboards and python charts
+Data visualization project using Excel dashboards
 # 📊 Sales Data Analysis using Excel
 
 ## 🔧 Tools Used
