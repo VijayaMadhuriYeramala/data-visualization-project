@@ -23,9 +23,9 @@ This project analyzes sales data using Excel and visualizes key insights using c
 ![Pie Chart](piechart.png)
 
 Python Analysis
-Data cleaning using Pandas
-Aggregation using groupby
-Visualization using Matplotlib
+- Data cleaning using Pandas
+- Aggregation using groupby
+- Visualization using Matplotlib
 
 Notebook:
 sales_analysis.ipynb
