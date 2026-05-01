@@ -22,6 +22,14 @@ This project analyzes sales data using Excel and visualizes key insights using c
 ### 3. Sales Distribution by Region
 ![Pie Chart](piechart.png)
 
+Python Analysis
+Data cleaning using Pandas
+Aggregation using groupby
+Visualization using Matplotlib
+
+Notebook:
+sales_analysis.ipynb
+
 ---
 
 ## 💡 Key Insights
