@@ -51,7 +51,9 @@ Analyzed Netflix dataset to understand content distribution, trends, and product
 
 ## 📈 Visualizations
 
-### Movies vs TV Shows
+Movies vs TV Shows
+![Movies vs TV](movies_vs_tv.png)
+
 
 
 
@@ -59,10 +61,15 @@ Analyzed Netflix dataset to understand content distribution, trends, and product
 
 Top Countries
 
+![Top Countries](top_countries.png)
+
+
 
 
 
 Content Trend Over Time
+
+![Trend](trend.png)
 
 
 ---
