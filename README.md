@@ -69,7 +69,7 @@ Top Countries
 
 Content Trend Over Time
 
-![Trend](trend.png)
+
 
 
 ---
