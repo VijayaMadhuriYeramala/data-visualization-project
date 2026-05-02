@@ -36,3 +36,38 @@ sales_analysis.ipynb
 - Product B has the highest sales
 - Sales peaked in February
 - West region contributes the most sales
+
+- # 📊 Netflix Data Analysis (Python Project)
+
+## 🛠️ Tools Used
+
+* Python (Pandas, Matplotlib)
+
+## 📌 Project Description
+
+Analyzed Netflix dataset to understand content distribution, trends, and production insights.
+
+---
+
+## 📈 Visualizations
+
+### Movies vs TV Shows
+
+![Movies vs TV](movies_vs_tv.png)
+
+### Top Countries
+
+![Top Countries](top_countries.png)
+
+### Content Trend Over Time
+
+![Trend](trend.png)
+
+---
+
+## 💡 Key Insights
+
+* Netflix has more Movies than TV Shows
+* Content increased significantly after 2015
+* United States produces the most content
+
