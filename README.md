@@ -10,65 +10,45 @@ Data visualization project using Excel dashboards
 This project analyzes sales data using Excel and visualizes key insights using charts.
 
 ---
+# 📊 Netflix Data Analysis Project
 
-## 📊 Visualizations
-
-### 1. Product-wise Sales Analysis
-![Bar Chart](barchart.png)
-
-### 2. Sales Trend Over Time
-![Line Chart](linechart.png)
-
-### 3. Sales Distribution by Region
-![Pie Chart](piechart.png)
-
-Python Analysis
-- Data cleaning using Pandas
-- Aggregation using groupby
-- Visualization using Matplotlib
-
-Notebook:
-sales_analysis.ipynb
+## 📌 Overview
+This project analyzes Netflix dataset using Python to uncover trends in content distribution, growth, and countries.
 
 ---
 
-## 💡 Key Insights
-- Product B has the highest sales
-- Sales peaked in February
-- West region contributes the most sales
-
-- # 📊 Netflix Data Analysis (Python Project)
-
-## 🛠️ Tools Used
-
-* Python (Pandas, Matplotlib)
-
-## 📌 Project Description
-
-Analyzed Netflix dataset to understand content distribution, trends, and production insights.
+## 🛠️ Tools & Technologies
+- Python
+- Pandas
+- Matplotlib
 
 ---
-
 
 ## 📊 Visualizations
 
 ### 1. Movies vs TV Shows
 ![Movies vs TV](movies_vs_tv.png)
 
-### 2. Top Countries
+### 2. Top Countries Producing Content
 ![Top Countries](top_countries.png)
 
 ### 3. Content Trend Over Time
 ![Trend](trend.png)
 
-
-
-
 ---
 
 ## 💡 Key Insights
+- Movies dominate Netflix content
+- USA produces the most content
+- Content growth increased after 2015
 
-* Netflix has more Movies than TV Shows
-* Content increased significantly after 2015
-* United States produces the most content
+---
 
+## 📁 Dataset
+Netflix dataset (cleaned using Pandas)
+
+---
+
+## 🚀 Future Improvements
+- Add Seaborn visualizations
+- Build dashboard using Streamlit
