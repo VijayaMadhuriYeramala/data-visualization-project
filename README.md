@@ -52,3 +52,14 @@ Netflix dataset (cleaned using Pandas)
 ## 🚀 Future Improvements
 - Add Seaborn visualizations
 - Build dashboard using Streamlit
+
+- ## 📈 Visualizations
+
+### Movies vs TV Shows
+![Movies vs TV](movies_vs_tv.png)
+
+### Top Countries
+![Top Countries](top_countries.png)
+
+### Content Trend Over Time
+![Trend](trend.png)
